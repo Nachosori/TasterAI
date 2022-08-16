@@ -1,13 +1,10 @@
 
-<center>
-	 <img src="https://user-images.githubusercontent.com/101704557/184862313-efae0fff-a916-4d3a-8696-093acf6c45c9.png" alt="Descripción de la imagen"  height="150"/> 
-</center>
+<p align="center"> <img src="https://user-images.githubusercontent.com/101704557/184862313-efae0fff-a916-4d3a-8696-093acf6c45c9.png" alt="Descripción de la imagen"  height="150" /> </p>
+
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<center>
-	 <img src="https://user-images.githubusercontent.com/101704557/184861884-4a4d76a1-f81a-4d8a-baff-389f76ff069a.gif" alt="Descripción de la imagen"  height="250"/> 
-</center>
+<p align="center"> <img src="https://user-images.githubusercontent.com/101704557/184861884-4a4d76a1-f81a-4d8a-baff-389f76ff069a.gif" alt="Descripción de la imagen"  height="400"//> </p>
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
