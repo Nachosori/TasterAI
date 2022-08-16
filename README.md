@@ -59,7 +59,7 @@ Within Streamlit the model has been implemented with opencv where we can see the
 
 Finally we have implemented an administration section with username and password where we can upload recipes directly to the database so that the model can suggest them.
 
-<p align="center"> <img src="https://i.ibb.co/0cDDFjz/Captura-de-pantalla-de-2022-08-16-18-55-55.png" alt="Descripción de la imagen"  height="400" /> </p>
+<p align="center"> <img src="https://i.ibb.co/0cDDFjz/Captura-de-pantalla-de-2022-08-16-18-55-55.png" alt="Descripción de la imagen"  height="350" /> </p>
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
