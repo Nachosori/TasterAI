@@ -50,6 +50,19 @@ The training with MobileNet gave good results from the very first moment, even t
 As can be seen in the image, the model leads to an accuracy of almost 85%.
 
 
+After training, two different datasets have been created, the first one with nutritional data for each of the foods recognized by the model and the last one with recipes for each of the foods.
+
+All this has been implemented in Streamlit so that when a food is recognized, the nutritional data is automatically displayed and a recipe is suggested.
+
+<p align="center"> <img src=https://i.ibb.co/gR6RfpP/ejemplo.png" alt="Descripción de la imagen"  height="400" /> </p>
+
+
+Within Streamlit the model has been implemented with opencv where we can see the model working with a live camera.
+
+Finally we have implemented an administration section with username and password where we can upload recipes directly to the database so that the model can suggest them.
+
+Translated with www.DeepL.com/Translator (free version)
+
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
