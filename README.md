@@ -17,7 +17,7 @@ The model predicts the following foods: Carrot Cake, Chocolate Cake, Cheesecake,
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<h2 style='text-align: center; color:#F7DC6F ;'>Contents of this file</h2>
+<h2 align="center">Contents of this file</h2>
 
 - Requeriments
 - Instructions
@@ -25,9 +25,9 @@ The model predicts the following foods: Carrot Cake, Chocolate Cake, Cheesecake,
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<h2 style='text-align: center; color:#F7DC6F ;'>Requeriments</h2>
+<h2 align="center">Requeriments</h2>
 
-You need to have all the libraries from the requirements.txt file installed. Once everything is installed, you can start running the TasterAI dashboad.
+You need to have all the libraries from the requirements.txt file installed. Once everything is installed, you can start running the TasterAIdashboad.
 
 To start, go to the Dashboard folder from the console and run the following command:
 
