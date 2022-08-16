@@ -116,3 +116,11 @@ The objectives for improving the model in the short term are as follows:
     <li><a href=https://github.com/DanielDls-exe>Daniel Alvarado</a></li>
     <li><a href=https://github.com/Luxor5k>Santino Lede</a></li>
   </ol>
+
+# Autor
+
+
+<a href=https://github.com>Nacho Soria</a>
+
+<a >isoriadiez@gmail.com</a>
+
