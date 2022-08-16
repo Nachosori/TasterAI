@@ -105,17 +105,17 @@ The objectives for improving the model in the short term are as follows:
 
 # Acknowledgments
 
-  <ol>
-    <li>
-      <a href="https://www.corecode.school/">CORE Code School</a>
-    </li>
-    <li>
-        <a href="https://github.com/boyander">Marc Pomar</a>
-    </li>
-    <li><a href="https://github.com/Alvaro-Lucas">Alvaro Lucas</a></li>
-    <li><a href=https://github.com/DanielDls-exe>Daniel Alvarado</a></li>
-    <li><a href=https://github.com/Luxor5k>Santino Lede</a></li>
-  </ol>
+<li>
+	<a href="https://www.corecode.school/">CORE Code School</a>
+</li>
+<li>
+	<a href="https://github.com/boyander">Marc Pomar</a>
+</li>
+<li><a href="https://github.com/Alvaro-Lucas">Alvaro Lucas</a></li>
+<li><a href=https://github.com/DanielDls-exe>Daniel Alvarado</a></li>
+<li><a href=https://github.com/Luxor5k>Santino Lede</a></li>
+
+<h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
 # Autor
 
