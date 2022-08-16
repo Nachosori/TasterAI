@@ -61,9 +61,6 @@ Within Streamlit the model has been implemented with opencv where we can see the
 
 Finally we have implemented an administration section with username and password where we can upload recipes directly to the database so that the model can suggest them.
 
-Translated with www.DeepL.com/Translator (free version)
-
-
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
 <h2 align="center">Requeriments</h2>
