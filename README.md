@@ -19,9 +19,37 @@ The model predicts the following foods: Carrot Cake, Chocolate Cake, Cheesecake,
 
 <h2 align="center">Contents of this file</h2>
 
+- Introduction
 - Requeriments
 - Instructions
 - API Reference
+
+<h1 style='text-align: center; color:#FF7F00 ;'></h1>
+
+<h2 align="center">Introduction</h2>
+
+The database with which the model is trained is based on 15,000 photographs, 1,000 for each type of food.
+
+The photographs were extracted from the food-101 database.
+
+I attach a link below:
+
+https://www.kaggle.com/datasets/dansbecker/food-101
+
+The model has been trained after several tests with MobileNet v2.
+
+The MobileNet v2 architecture is based on an inverted residual structure in which the input and output of the residual block are thin bottleneck layers, unlike traditional residual models that use expanded representations at the input. MobileNet v2 uses lightweight convolutions in depth to filter features in the intermediate expansion layer. In addition, nonlinearities in the narrow layers have been removed to maintain representational power.
+
+The training with MobileNet gave good results from the very first moment, even though training food recognition is always a bit complicated since each type of food can be represented in very different ways.
+
+<h1 style='text-align: center; color:#FF7F00 ;'></h1>
+
+<p align="center"> <img src="https://i.ibb.co/RbyNNBj/Captura-de-pantalla-de-2022-08-16-18-19-17.png"alt="Descripción de la imagen"  height="200" /> </p>
+
+
+As can be seen in the image, the model leads to an accuracy of almost 85%.
+
+
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
