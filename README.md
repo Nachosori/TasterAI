@@ -17,16 +17,26 @@ The model predicts the following foods: Carrot Cake, Chocolate Cake, Cheesecake,
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<h2 align="center">Contents of this file</h2>
+# Contents of this file
 
-- Introduction
-- Requeriments
-- Instructions
-- API Reference
+<details>
+<summary>Index</summary>
+  <ol>
+    <li>
+      <a href="#Introduction">Introduction</a>
+    </li>
+    <li>
+        <a href="#Requeriments">Requeriments</a>
+    </li>
+    <li><a href="#Objectives">Objectives</a></li>
+    <li><a href="#Acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Autor">Autor</a></li>
+  </ol>
+</details>
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<h2 align="center">Introduction</h2>
+# Introduction
 
 The database with which the model is trained is based on 15,000 photographs, 1,000 for each type of food.
 
@@ -63,7 +73,7 @@ Finally we have implemented an administration section with username and password
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<h2 align="center">Requeriments</h2>
+# Requeriments
 
 You need to have all the libraries from the requirements.txt file installed. Once everything is installed, you can start running the TasterAIdashboad.
 
@@ -81,5 +91,28 @@ To be able to use the administrator section from the Dashboard it is necessary t
 # Follow the rule: username = "password"
 username = "password"
 ```
+<h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
+# Objectives
 
+The objectives for improving the model in the short term are as follows:
+
+- [x] Detecting live food through the camera
+- [ ] Detect several meals at the same time
+- [ ] Improve the accuracy of the model.
+- [ ] Increase the number of foods recognized by the model.
+- [ ] Implement its use on a Rasberry Pi and test the system on the street or in stores.
+
+# Acknowledgments
+
+  <ol>
+    <li>
+      <a href="https://www.corecode.school/">CORE Code School</a>
+    </li>
+    <li>
+        <a href="https://github.com/boyander">Marc Pomar</a>
+    </li>
+    <li><a href="https://github.com/Alvaro-Lucas">Alvaro Lucas</a></li>
+    <li><a href=https://github.com/DanielDls-exe>Daniel Alvarado</a></li>
+    <li><a href=https://github.com/Luxor5k>Santino Lede</a></li>
+  </ol>
