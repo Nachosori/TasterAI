@@ -1,0 +1,15 @@
+carrot_cake
+cheesecake
+chocolate_cake
+cup_cakes
+donuts
+guacamole
+gyoza
+hamburger
+hot_dog
+ice_cream
+macarons
+nachos
+paella
+pizza
+sushi
