@@ -55,7 +55,7 @@ All this has been implemented in Streamlit so that when a food is recognized, th
 
 Within Streamlit the model has been implemented with opencv where we can see the model working with a live camera.
 
-<p align="center"> <img src="https://i.ibb.co/8PYZKGS/Captura-de-pantalla-de-2022-08-16-18-49-04.png"alt="Descripción de la imagen"  height="300" /> </p>
+<p align="center"> <img src="https://i.ibb.co/8PYZKGS/Captura-de-pantalla-de-2022-08-16-18-49-04.png"alt="Descripción de la imagen"  height="400" /> </p>
 
 Finally we have implemented an administration section with username and password where we can upload recipes directly to the database so that the model can suggest them.
 
