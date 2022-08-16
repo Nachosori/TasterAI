@@ -4,7 +4,7 @@
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/101704557/184861884-4a4d76a1-f81a-4d8a-baff-389f76ff069a.gif" alt="Descripción de la imagen"  height="400"//> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/101704557/184918236-12d57e4d-aa56-4d34-ad0e-15458a90988e.gif"  height="400"//> </p>
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
