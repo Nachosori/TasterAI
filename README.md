@@ -54,7 +54,7 @@ The training with MobileNet gave good results from the very first moment, even t
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
-<p align="center"> <img src=https://i.ibb.co/ydTz8cR/modelo-taster.png alt="Descripción de la imagen"  height="400" /> </p>
+<p align="center"> <img src=https://i.ibb.co/ydTz8cR/modelo-taster.png alt="Descripción de la imagen"  height="200" /> </p>
 
 As can be seen in the image, the model leads to an accuracy of almost 85%.
 
