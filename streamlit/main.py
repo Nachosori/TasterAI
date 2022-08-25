@@ -136,8 +136,6 @@ if selected == "Upload photo":
 
             name_recipes = calls_recipes(food)
 
-            print(name_recipes)
-
             list_names = ["No",]
 
             for i in name_recipes:
@@ -153,7 +151,7 @@ if selected == "Upload photo":
 
                 st.markdown(f"<h2 style='text-align: center;color: #A93226 ;'><b>{option}</b></h2>", unsafe_allow_html=True)
                 st.markdown(f"<hr style='text-align: center;color: #A93226;'></hr>", unsafe_allow_html=True)
-                st.markdown(f"<h3 style='text-align: center;color: #A93226 ;'>Time preparation {time_preparation[0]} m | Time cooking {time_cooking[0]} m | Total time {time_preparation[0] + time_cooking[0]} m</h3>", unsafe_allow_html=True)
+                st.markdown(f"<h3 style='text-align: center;color: #A93226 ;'>Time preparation {time_preparation[0]} m | Time cooking {time_cooking[0]} m | Total time {int(time_preparation[0]) + int(time_cooking[0])} m</h3>", unsafe_allow_html=True)
                 st.markdown(f"<hr style='text-align: center;color: #A93226 ;'></hr>", unsafe_allow_html=True)
                 st.markdown(f"<h4 style='text-align: center;color: #A93226 ;'><b>Ingredients</b></h4>", unsafe_allow_html=True)
                 for ingredient in ingredients:
