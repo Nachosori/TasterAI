@@ -54,6 +54,8 @@ The training with MobileNet gave good results from the very first moment, even t
 
 <h1 style='text-align: center; color:#FF7F00 ;'></h1>
 
+<p align="center"> <img src=https://i.ibb.co/ydTz8cR/modelo-taster.png alt="Descripción de la imagen"  height="400" /> </p>
+
 As can be seen in the image, the model leads to an accuracy of almost 85%.
 
 After training, two different datasets have been created, the first one with nutritional data for each of the foods recognized by the model and the last one with recipes for each of the foods.
